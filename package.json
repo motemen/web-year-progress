@@ -12,7 +12,6 @@
     "deploy": "wrangler publish"
   },
   "dependencies": {
-    "htm": "^3.1.1",
     "preact": "^10.11.2",
     "preact-render-to-string": "^5.2.6"
   }

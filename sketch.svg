@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.36491909"
-     inkscape:cx="680.97286"
-     inkscape:cy="228.81784"
+     inkscape:zoom="1.1961479"
+     inkscape:cx="128.32861"
+     inkscape:cy="91.961871"
      inkscape:window-width="1440"
-     inkscape:window-height="847"
+     inkscape:window-height="738"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
@@ -56,15 +56,15 @@
        inkscape:collect="always"
        id="blue-to-red">
       <stop
-         style="stop-color:#3465a4;stop-opacity:1;"
+         style="stop-color:#1d65bb;stop-opacity:1;"
          offset="0"
          id="stop2986" />
       <stop
-         style="stop-color:#7d5e79;stop-opacity:1;"
+         style="stop-color:#9c3f90;stop-opacity:1;"
          offset="0.74873096"
          id="stop12560" />
       <stop
-         style="stop-color:#c6574e;stop-opacity:1;"
+         style="stop-color:#ed3728;stop-opacity:1;"
          offset="1"
          id="stop2988" />
     </linearGradient>
@@ -88,7 +88,8 @@
        width="264.58334"
        height="16.933332"
        x="10.291647"
-       y="10.291645" clip-path="url(#clip)" />
+       y="10.291645"
+       clip-path="url(#clip)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:hard-light;fill:#eeeeec;fill-opacity:0.834835;stroke:#2e3436;stroke-width:2.64583;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -102,11 +103,11 @@
          x="125.55626"
          y="22.611311">23.4%</tspan></text>
   </g>
-  <clipPath id="clip">
+  <clipPath
+     id="clip">
     <rect
        width="23.4%"
        height="100%"
-       
-       />
+       id="rect15" />
   </clipPath>
 </svg>
