@@ -88,7 +88,7 @@
        width="264.58334"
        height="16.933332"
        x="10.291647"
-       y="10.291645" />
+       y="10.291645" clip-path="url(#clip)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;mix-blend-mode:hard-light;fill:#eeeeec;fill-opacity:0.834835;stroke:#2e3436;stroke-width:2.64583;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -102,4 +102,11 @@
          x="125.55626"
          y="22.611311">23.4%</tspan></text>
   </g>
+  <clipPath id="clip">
+    <rect
+       width="23.4%"
+       height="100%"
+       
+       />
+  </clipPath>
 </svg>
