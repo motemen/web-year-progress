@@ -41,7 +41,10 @@ export default {
         `<!DOCTYPE html>` +
           render(
             <html>
-              <title>Year Progress SVG</title>
+              <head>
+                <meta name="viewport" content="width=device-width" />
+                <title>Year Progress SVG</title>
+              </head>
               <h1>Year Progress SVG</h1>
               <pre>
                 Usage: {"/progress.svg?tz={timezone}&start={start}&end={end}"}
@@ -55,7 +58,7 @@ export default {
                 </a>
               </p>
               <p>
-                <img src="/progress.svg" />
+                <img src="/progress.svg" style={{ maxWidth: "100%" }} />
               </p>
             </html>
           ),
